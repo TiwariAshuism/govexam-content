@@ -1,0 +1,11 @@
+{
+  "pack_count": 8,
+  "question_identity_count": 112,
+  "release_version": 2,
+  "source_types": {
+    "original_practice": 24,
+    "synthetic_placeholder": 200
+  },
+  "synthetic_row_count": 200,
+  "translated_row_count": 224
+}
