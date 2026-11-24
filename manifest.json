@@ -1,5 +1,110 @@
 {
-  "generated_at": "1970-01-01T00:00:00Z",
-  "packs": [],
+  "generated_at": "2026-11-24T00:00:00Z",
+  "packs": [
+    {
+      "bytes": 609,
+      "exam_id": "rrb_alp",
+      "language": "en-IN",
+      "pack_id": "rrb_alp_cbt1_mathematics_en-IN",
+      "path": "packs/rrb_alp/cbt1/mathematics/en-IN/v1.csv.gz",
+      "question_count": 3,
+      "schema_version": 1,
+      "sha256": "c4b09cc390225a21352160941369e50edc85d775cfa71a0497715f0c164f9077",
+      "stage_id": "cbt1",
+      "subject_id": "mathematics",
+      "version": 1
+    },
+    {
+      "bytes": 754,
+      "exam_id": "rrb_alp",
+      "language": "hi-IN",
+      "pack_id": "rrb_alp_cbt1_mathematics_hi-IN",
+      "path": "packs/rrb_alp/cbt1/mathematics/hi-IN/v1.csv.gz",
+      "question_count": 3,
+      "schema_version": 1,
+      "sha256": "fcbef127fec2a225695211fdab43271a2a8807bfb65cfb90e7ecb2a641053e3c",
+      "stage_id": "cbt1",
+      "subject_id": "mathematics",
+      "version": 1
+    },
+    {
+      "bytes": 571,
+      "exam_id": "rrb_group_d",
+      "language": "en-IN",
+      "pack_id": "rrb_group_d_cbt_mathematics_en-IN",
+      "path": "packs/rrb_group_d/cbt/mathematics/en-IN/v1.csv.gz",
+      "question_count": 3,
+      "schema_version": 1,
+      "sha256": "03592806d59532faae2bed47952e861b5dc536b5525f0f890a8da1723556b7fb",
+      "stage_id": "cbt",
+      "subject_id": "mathematics",
+      "version": 1
+    },
+    {
+      "bytes": 663,
+      "exam_id": "rrb_group_d",
+      "language": "hi-IN",
+      "pack_id": "rrb_group_d_cbt_mathematics_hi-IN",
+      "path": "packs/rrb_group_d/cbt/mathematics/hi-IN/v1.csv.gz",
+      "question_count": 3,
+      "schema_version": 1,
+      "sha256": "5b014645026e7cc841583a37c5f773329bce3e413b26bf6b267180f2c8695f44",
+      "stage_id": "cbt",
+      "subject_id": "mathematics",
+      "version": 1
+    },
+    {
+      "bytes": 604,
+      "exam_id": "rrb_ntpc",
+      "language": "en-IN",
+      "pack_id": "rrb_ntpc_cbt1_mathematics_en-IN",
+      "path": "packs/rrb_ntpc/cbt1/mathematics/en-IN/v1.csv.gz",
+      "question_count": 3,
+      "schema_version": 1,
+      "sha256": "15939d9c1a4cbc2e7a651e611b7199cabbb440c6b0d1abd8eda08914071eff60",
+      "stage_id": "cbt1",
+      "subject_id": "mathematics",
+      "version": 1
+    },
+    {
+      "bytes": 726,
+      "exam_id": "rrb_ntpc",
+      "language": "hi-IN",
+      "pack_id": "rrb_ntpc_cbt1_mathematics_hi-IN",
+      "path": "packs/rrb_ntpc/cbt1/mathematics/hi-IN/v1.csv.gz",
+      "question_count": 3,
+      "schema_version": 1,
+      "sha256": "60c7d88781a78796f889858d3089db1e2b278b7913433144ba50c7732f68529e",
+      "stage_id": "cbt1",
+      "subject_id": "mathematics",
+      "version": 1
+    },
+    {
+      "bytes": 600,
+      "exam_id": "rrb_technician",
+      "language": "en-IN",
+      "pack_id": "rrb_technician_cbt_mathematics_en-IN",
+      "path": "packs/rrb_technician/cbt/mathematics/en-IN/v1.csv.gz",
+      "question_count": 3,
+      "schema_version": 1,
+      "sha256": "8a6ef5bfa70e585de87bcc13b50ea11cb9398e4379f763e1542cdf7423bbabd2",
+      "stage_id": "cbt",
+      "subject_id": "mathematics",
+      "version": 1
+    },
+    {
+      "bytes": 742,
+      "exam_id": "rrb_technician",
+      "language": "hi-IN",
+      "pack_id": "rrb_technician_cbt_mathematics_hi-IN",
+      "path": "packs/rrb_technician/cbt/mathematics/hi-IN/v1.csv.gz",
+      "question_count": 3,
+      "schema_version": 1,
+      "sha256": "499d00543b7a2f1083fa06cd3ed5d369135ade1e50528559a4b687e9c90c658c",
+      "stage_id": "cbt",
+      "subject_id": "mathematics",
+      "version": 1
+    }
+  ],
   "schema_version": 1
 }
